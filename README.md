@@ -5,4 +5,4 @@ Projeto de uma bateria criada usando JavaScript, projeto feito durante a semana 
 ![bateria](https://user-images.githubusercontent.com/68359459/126552551-08723de2-89ce-468c-a164-3b4a4515481b.png)
 
 
-[](https://github.com/CristianoDaSilvaFerreira/Bateria-JS/blob/main/video-bateria.mp4)
+![Video demostrativo](https://github.com/CristianoDaSilvaFerreira/Bateria-JS/blob/main/video-bateria.mp4)
